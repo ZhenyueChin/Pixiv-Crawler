@@ -1,5 +1,7 @@
 #-*- coding:utf-8 -*- #this line supports the input of the Chinese characters
 
+# DOES NOT WORK!!!
+
 # The code is based on the work of QuantMio
 # https://github.com/QuantMio/PixivSpider
 
